@@ -28,3 +28,4 @@ void displayBoard() {
 void switchPlayer() {
     currentPlayer = (currentPlayer == 'X') ? 'O' : 'X';
 }
+ghghghghghghghghgh
